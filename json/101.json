@@ -1,0 +1,65 @@
+{
+  "name": "JUNIOR #102",
+  "description": "The first profitable NFT collection from the JOYSTICK JSI project. Hold JOYSTICK NFT Legendary and get a bonus in TON from trading $JSI",
+  "image": "https://raw.githubusercontent.com/Andrey3790/joystick_nft_collection/refs/heads/main/images/101.png",
+  "dna": "70dc7c41a977fe7b484e28874595995336c3d009",
+  "edition": 101,
+  "date": 1740318212780,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Effects",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Cord",
+      "value": "One"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Corbs",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Joystick",
+      "value": "Joystick"
+    },
+    {
+      "trait_type": "Inclusion section",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Button Boxe",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Button Box",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Button",
+      "value": "Button"
+    },
+    {
+      "trait_type": "Inscription",
+      "value": "Inscription"
+    },
+    {
+      "trait_type": "Effect",
+      "value": "Nothing"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "J O Y S T I C K",
+        "uri": "https://t.me/joystickpro"
+      }
+  ],
+  "compiler": "Skareon Agency"
+}
