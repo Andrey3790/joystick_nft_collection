@@ -1,0 +1,8 @@
+  "buttons": [
+      {
+        "label": "J O Y S T I C K",
+        "uri": "https://t.me/joystickpro"
+      }
+  ],
+  "compiler": "Skareon Agency"
+}
